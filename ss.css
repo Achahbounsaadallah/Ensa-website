@@ -1,0 +1,82 @@
+.div-1{
+    background-color: rgb(247, 246, 246);
+    height: 240px;
+    width: 100%;
+    margin: 0px;
+}
+/*h1{
+    margin-left: 50%;
+}
+p{
+    size: 200px;
+    margin-left: 15%;
+    margin-top: 100px;
+}*/
+.image1{
+    width:35%;
+    height:190px;
+    margin-left: 490px;
+    margin-top: 10px;
+    size: 30px;
+}
+h1{
+    margin-top: -5px;
+    margin-left: 37%; 
+}
+.div-2{
+    margin-top: -20px;
+    background-color: rgb(113, 114, 132);
+    width: 20%;
+    height: 500px;
+    border-radius: 10px;
+    
+}
+.div-2 section{
+    margin-left: 25px;
+}
+h2{
+    margin-left: 35px;
+    
+}
+.div-3{
+    background-color: rgb(235, 225, 225);
+    height: 400px;
+    width: 80%;
+    margin-left: 20%;
+    margin-top: -500px;
+    border-radius: 10px;
+    
+}
+
+.div-3 p{
+    
+    margin-left: 30px;
+}
+h3{
+    color: brown;
+    position: relative;
+    margin:0;
+    margin-left: 35%;
+    top: 20px;
+}
+.emp-p{
+    margin-top: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}
+.div-3 button{
+    margin-left: 40px;
+}
+.exa-p{
+    position: relative;
+    left: 0px;
+    margin-top: 20px;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}
+.but-exa button{
+    margin-left: 100px;
+    size: 90px;
+}
